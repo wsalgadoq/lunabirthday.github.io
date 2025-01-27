@@ -28,8 +28,9 @@ time, mark, audio, video {
 }
 
 .container {
-    background: url("happy_birthday_background.jpg") no-repeat #02132c;
-    background-size: cover;
+    background: url("lovers.png") no-repeat #02132c;
+    background-size: 100%;
+    background-position: center;
     height: 100%;
     width: 100%;
     position:absolute;
@@ -44,7 +45,7 @@ time, mark, audio, video {
     width: 60%;
     text-align: center;
     font-size: 2em;
-    color: black;
+    color: white;
     font-weight: bold;
 }
 .content > img {
@@ -53,6 +54,7 @@ time, mark, audio, video {
     font-size: 2em;
     color: white;
     font-weight: bold;
+
 }
 
 .nextButton {
